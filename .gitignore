@@ -1,4 +1,4 @@
 .DS_Store
 code/.ipynb_checkpoints/
-literature/
-submissions/
+literature/*
+submissions/*
